@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# macOS Trash
+.Trash/
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Haskell and Stack files
+*.hi
+*.o
+dist/
+.stack-work/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and temp files
+*.log
+*.swp
+*.swo
+
+# Ignore user-specific config files
+*.history
